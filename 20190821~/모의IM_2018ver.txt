@@ -1,0 +1,16 @@
+기지국과 집 위치를 2차원 리스트에 저장한다.
+
+모든 영역에서 기지국을 찾는다.
+for i in range(N):
+	for j in range(N):
+		if arr[i][j] == 'A' or 'B' or 'C':
+
+기지국 타입에 따라 커버되는 집을 지운다.
+	cover(기지국)
+전체 영역에 남은 집의 개수를 출력한다.
+cnt = 0 
+for i n range(N):
+	for j in range(N):
+		if arr[i][j] == 'H'
+			cnt += 1
+print(cnt)
