@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42f0487b-2947-4f72-b4fe-1e0ef3d596b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/4828.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/4831.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/4834.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/4835.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/IM_2018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/list_23.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/list_23.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/list_23.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/t1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/test1/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/test1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/색칠하기/4836.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/색칠하기/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/색칠하기/practice_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled2/색칠하기/practice_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM_2018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test(example1)/IM_TEST_PRACTICE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test(example1)/hello-python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test(example1)/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test(example1)/쓰앵님.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IM_2018.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM_2018.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1011" />
+          <entry key="py" value="1374" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1011" />
+          <entry key="Python" value="1374" />
         </counts>
       </usages-collector>
     </session>
@@ -89,8 +67,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IM_2018.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="209">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <folding>
+                <marker date="1566905590964" expanded="true" signature="367:372" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="896" />
     <option name="y" value="15" />
     <option name="width" value="785" />
@@ -324,8 +305,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IM_2018.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="209">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <marker date="1566905590964" expanded="true" signature="367:372" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
