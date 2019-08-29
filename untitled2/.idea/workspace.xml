@@ -5,28 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="893f2b62-d7af-4c98-ae92-6fb276289d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4828.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4831.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4834.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4835.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IM_2018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_23.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_23.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_23.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/색칠하기/4836.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/색칠하기/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/색칠하기/practice_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/색칠하기/practice_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled3/test(example1)/IM_TEST_PRACTICE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled3/test(example1)/hello-python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled3/test(example1)/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled3/test(example1)/쓰앵님.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4835/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/4834.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4834.py" beforeDir="false" afterPath="$PROJECT_DIR$/4834.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4835.py" beforeDir="false" afterPath="$PROJECT_DIR$/4835/4835.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,24 +23,24 @@
     <session id="-369432513">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="27" />
-          <entry key="txt" value="5" />
+          <entry key="py" value="30" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="27" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -96,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/test1/1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -114,14 +99,45 @@
         <entry file="file://$PROJECT_DIR$/색칠하기/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IM_2018.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/4835/4835.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="20" lean-forward="true" selection-end-line="16" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4834.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4835/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="99" selection-start-line="6" selection-start-column="99" selection-end-line="6" selection-end-column="99" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -159,11 +175,13 @@
         <option value="$PROJECT_DIR$/../untitled3/test(example1)/IM_TEST_PRACTICE.py" />
         <option value="$PROJECT_DIR$/../untitled3/test(example1)/쓰앵님.py" />
         <option value="$PROJECT_DIR$/IM_2018.py" />
+        <option value="$PROJECT_DIR$/4835/input.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="821" />
+    <option name="y" value="53" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -212,12 +230,7 @@
             <path>
               <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled2" type="462c0819:PsiDirectoryNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
-              <item name="색칠하기" type="462c0819:PsiDirectoryNode" />
+              <item name="4835" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,16 +241,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/student/algorithm/untitled2/색칠하기/input.txt" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\student\algorithm\untitled2\색칠하기" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\student\algorithm\untitled2\색칠하기" />
       <recent name="C:\Users\student\algorithm\untitled2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\algorithm\untitled2\4835" />
+      <recent name="C:\Users\student\algorithm\untitled2" />
+      <recent name="C:\Users\student\algorithm\untitled2\색칠하기" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -252,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1">
+  <component name="RunManager" selected="Python.4835 (1)">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4835" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4835 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,11 +318,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4835" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4835.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4835/4835.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,18 +375,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.4834" />
-      <item itemvalue="Python.4835" />
       <item itemvalue="Python.4836" />
       <item itemvalue="Python.practice_2" />
       <item itemvalue="Python.1" />
+      <item itemvalue="Python.4835 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4835 (1)" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python.practice_2" />
         <item itemvalue="Python.4836" />
         <item itemvalue="Python.4834" />
-        <item itemvalue="Python.4835" />
       </list>
     </recent_temporary>
   </component>
@@ -389,9 +404,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="821" y="53" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.102212854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20726496" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -451,13 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4834.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4828.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -496,24 +505,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4835.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/색칠하기/4836.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled3/test(example1)/IM_TEST_PRACTICE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled3/test(example1)/쓰앵님.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -534,7 +543,7 @@
     <entry file="file://$PROJECT_DIR$/test1/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -545,29 +554,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled3/test(example1)/IM_TEST_PRACTICE.py">
+    <entry file="file://$PROJECT_DIR$/4835/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4835/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <caret line="6" column="99" selection-start-line="6" selection-start-column="99" selection-end-line="6" selection-end-column="99" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../untitled3/test(example1)/쓰앵님.py">
+    <entry file="file://$PROJECT_DIR$/4834.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/색칠하기/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="171">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IM_2018.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/색칠하기/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4835/4835.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20" lean-forward="true" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
